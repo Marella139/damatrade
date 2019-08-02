@@ -1,0 +1,19 @@
+url {
+	border: 2px solid #000; border-radius: 20px; text-align: center; margin: 20px auto; width: 890px; padding: 10px; background-color:#DFF3FF; display: block;
+}
+
+loc {
+	background-color: #095D92; color: #FFF; display: block; margin: 20px 0px;
+}
+
+lastmod {
+	background-color: #095D92; color: #FFF; display: block; margin: 20px 0px;
+}
+
+changefreq {
+	background-color: #095D92; color: #FFF; display: block; margin: 20px 0px;
+}
+
+priority {
+	background-color: #095D92; color: #FFF; display: block; margin: 20px 0px;
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="stilovi/stil_sm.css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+	<url>
+		<loc>https://12193b33bfbf9be8b6b684557ec73922e2c9dc39.googledrive.com/host/0B_GmpBITZKp4T2JWQnowZm15VHM/index.html</loc>
+		<lastmod>2015-12-01</lastmod>
+		<changefreq>never</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://12193b33bfbf9be8b6b684557ec73922e2c9dc39.googledrive.com/host/0B_GmpBITZKp4T2JWQnowZm15VHM/o_nama.html</loc>
+		<lastmod>2015-12-01</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://12193b33bfbf9be8b6b684557ec73922e2c9dc39.googledrive.com/host/0B_GmpBITZKp4T2JWQnowZm15VHM/narucivanje.html</loc>
+		<lastmod>2015-12-01</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://12193b33bfbf9be8b6b684557ec73922e2c9dc39.googledrive.com/host/0B_GmpBITZKp4T2JWQnowZm15VHM/reference.html</loc>
+		<lastmod>2015-12-01</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://12193b33bfbf9be8b6b684557ec73922e2c9dc39.googledrive.com/host/0B_GmpBITZKp4T2JWQnowZm15VHM/galerija.html</loc>
+		<lastmod>2015-12-01</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.6</priority>
+	</url>
+</urlset>
